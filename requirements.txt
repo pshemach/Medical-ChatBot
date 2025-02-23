@@ -1,12 +1,14 @@
-sentence-transformers==2.2.2
-langchain 
+langchain
 flask
 pypdf
+pymupdf
 python-dotenv
-pinecone[grpc]
-langchain_pinecone
+langchain 
+langchain-community 
+langchain-pinecone 
 langchain_openai
-langchain_community
-langchain-ollama
-langchain_experimental
+sentence-transformers 
+transformers 
+torch
+tiktoken
 -e .
